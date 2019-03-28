@@ -1,9 +1,9 @@
 # lita-snappy-standups
 
-[![Build Status](https://travis-ci.org/picoPWR/lita-snappy-standups.png?branch=master)](https://travis-ci.org/picoPWR/lita-snappy-standups)
-[![Coverage Status](https://coveralls.io/repos/picoPWR/lita-snappy-standups/badge.png)](https://coveralls.io/r/picoPWR/lita-snappy-standups)
+[![Build Status](https://travis-ci.org/picoPWR/lita-snappy-standups.svg?branch=master)](https://travis-ci.org/picoPWR/lita-snappy-standups)
+[![Coverage Status](https://coveralls.io/repos/github/picoPWR/lita-snappy-standups/badge.svg?branch=master)](https://coveralls.io/github/picoPWR/lita-snappy-standups?branch=master)
 
-TODO: Add a description of the plugin.
+The Lita handler that facilitates your standups!
 
 ## Installation
 
@@ -15,8 +15,8 @@ gem "lita-snappy-standups"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+N/A
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+TBD
